@@ -1,0 +1,6 @@
+# Robots.txt for FoodOrder.com
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.foodorder.com/sitemap.xml
